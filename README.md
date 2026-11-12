@@ -85,4 +85,4 @@ The repository includes two architecture diagrams:
 This project provided practical experience in Linux administration, SNMP configuration, network monitoring, Zabbix dashboard creation and basic fault detection.
 ## Dashboard Screenshot
 
-![Zabbix Monitoring Dashboard](Screenshots/zabbix-monitoring-dashboard.png)
+![Zabbix Monitoring Dashboard](./Screenshots/zabbix-monitoring-dashboard.png)
